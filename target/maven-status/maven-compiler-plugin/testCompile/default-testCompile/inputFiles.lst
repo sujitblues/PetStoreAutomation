@@ -1,10 +1,15 @@
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\test\PetTest.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\test\UserTests.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\test\UserTests2.java
-C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\utilities\XLUtility.java
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\payload\Pet.java
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\payload\PetCategory.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\test\DDTests.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\endpoints\Routes.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\endpoints\UserEndPoints2.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\payload\User.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\utilities\DataProviders.java
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\payload\Tags.java
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\utilities\XLUtility.java
+C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\endpoints\PetEndPoints.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\utilities\ExtentReportManager.java
 C:\Users\sujit\SeleniumTraining\PetStoreAutomation\src\test\java\api\endpoints\UserEndPoints.java

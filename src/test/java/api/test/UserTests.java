@@ -17,7 +17,7 @@ import io.restassured.response.Response;
 public class UserTests {
 	Faker faker;
 	User userpayload;
-	public Logger logger;
+	public static Logger logger;
 	@BeforeClass
 	public void setup()
 	{
@@ -32,7 +32,7 @@ public class UserTests {
 		userpayload.setPhone(faker.phoneNumber().cellPhone());
 		
 		//logs
-		logger=LogManager.getLogger(this.getClass());
+		logger=LogManager.getLogger("PetStoreAutomation");
 	}
 	
 	//Testing create user

@@ -24,4 +24,8 @@ public class Routes {
 	//here will create store module
 	//pet module
 	//here will create pet module
+	public static String create_pet=base_url+"/pet";
+	public static String update_pet=base_url+"/pet/{petId}";
+	public static String get_pet=base_url+"/pet/{petId}";
+	public static String delete_pet=base_url+"/pet/{petId}";
 }
